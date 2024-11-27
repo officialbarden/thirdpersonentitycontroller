@@ -1,0 +1,1 @@
+execute as @a[tag=tpc.controller] at @s run function tpc:private/control/1
